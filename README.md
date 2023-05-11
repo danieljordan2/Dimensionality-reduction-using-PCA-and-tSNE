@@ -34,4 +34,7 @@ A. There are three groups in the data. Each group has a different set of charact
 
 - **Group 3 (blue) represents undeveloped and poor countries**. This countries have a high child mortality, high fertility rate, their imports are high because they don't produce much. In the other hand they have a low income, exports and gdpp.
 
-B. Calculations are in Caseof study_PCA_tSNE.ipynb
+![image](https://github.com/danieljordan2/Dimensionality-reduction-using-PCA-and-tSNE/assets/86810694/31095cdb-133a-441d-bbb1-67bd583a3e20)
+
+
+B. Calculations are in Case_of_study_PCA_tSNE.ipynb
